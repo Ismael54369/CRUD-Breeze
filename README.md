@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
+
 # CRUD de Piratas: ¡Se Busca! 🏴‍☠️
 
 ¡Ahoy, marinero! Has abordado el sistema de gestión de recompensas de la Marina. Este no es un simple libro de contabilidad; es nuestra herramienta principal para mantener a raya a los piratas más temibles de los siete mares. Aquí registramos, actualizamos y damos por "capturados" a los rufianes que osan desafiar al Gobierno Mundial.
